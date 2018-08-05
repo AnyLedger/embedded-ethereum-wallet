@@ -44,7 +44,7 @@ See the [examples](examples) folder for more details.
 
 ## Contributing
 
-To get started, [clone the library from GitHub to your local machine](https://github.com/bdjukic/embedded-ethereum-wallet).
+To get started, clone the library from GitHub to your local machine.
 
 ## License
 Copyright 2018 Bogdan Djukic
