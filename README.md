@@ -47,6 +47,5 @@ See the [examples](examples) folder for more details.
 To get started, clone the library from GitHub to your local machine.
 
 ## License
-Copyright 2018 Bogdan Djukic
 
 Licensed under the GNU GENERAL PUBLIC LICENSE
