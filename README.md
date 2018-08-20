@@ -1,4 +1,4 @@
-# Ethereum wallet library for Particle Photon
+# AnyLedger Embedded Ethereum wallet library for Particle Photon
 
 You can find example usage of the library inside [examples](examples)
 
