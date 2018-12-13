@@ -1,3 +1,6 @@
+# ⚠️ This repository has been retired and is no longer maintained ⚠️
+Code for anyledger wallet now resides in https://github.com/AnyLedger/anyledger-wallet 
+
 # AnyLedger Embedded Ethereum wallet library for Particle Photon
 
 You can find example usage of the library inside [examples](examples)
